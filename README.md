@@ -37,3 +37,22 @@ Este proyecto consiste en un script Python que automatiza la generación y enví
 
 ## Configuración
 
+Dentro de main.py se deberan ingresar las siguientes modificaciones para poder hacer uso del mismo.
+
+IMPORTANTE:
+   Solo modificar lo que se encuentra dentro de las comillas "MODFICAR".
+
+1. ### Linea 46
+esta es la direccion donde se guardan los archivos que se descargan de buscador de chrome muy comunmente llamada "descargas o downloads", ejemplo:
+
+list_of_files = glob.glob(r'C:\Users\USUARIO\Downloads/*.pdf')
+
+2. ### Linea 67
+   
+Agregar el mail que se usara para enviar los correos de forma automatica.
+
+email_from = "emailautomatico@mail.com"
+
+IMPORTANTE:
+   - Se recomienda usar un nuevo email y no uno que ya se utilice de forma personal ni empresarial.
+   - Una vez creado el mail se debera generarle el token de aplicacion, [para esto se recmiendo ver este tutorial.]([https://www.markdownguide.org/](https://www.youtube.com/watch?v=g_j6ILT-X0k&t=124s)

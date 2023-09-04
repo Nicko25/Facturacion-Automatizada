@@ -55,4 +55,4 @@ email_from = "emailautomatico@mail.com"
 
 IMPORTANTE:
    - Se recomienda usar un nuevo email y no uno que ya se utilice de forma personal ni empresarial.
-   - Una vez creado el mail se debera generarle el token de aplicacion, [para esto se recmiendo ver este tutorial.]([https://www.markdownguide.org/](https://www.youtube.com/watch?v=g_j6ILT-X0k&t=124s)
+   - Una vez creado el mail se debera generarle el token de aplicacion, [para esto se recmiendo ver este tutorial.](https://www.youtube.com/watch?v=g_j6ILT-X0k&t=124s)

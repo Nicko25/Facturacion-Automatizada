@@ -58,7 +58,7 @@ email_from = "emailautomatico@mail .com"
 
 ### 3. Linea 72
 
-Una vez creado el mail se debera generarle el token de aplicacion, [para esto se recomienda seguir los pasos de este tutorial.](https://www.youtube.com/watch?v=g_j6ILT-X0k&t=124s).
+Una vez creado el mail se debera generarle el token de aplicacion, [para esto se recomienda seguir los pasos de este tutorial.](https://www.youtube.com/watch?v=g_j6ILT-X0k&t=124s)
 
 pswd = "TOKEN_APLICACION"
 
@@ -121,7 +121,7 @@ La idea de este script es mostrar el flujo principal tratando de mantenerlo lo m
 
 ### Sobre la seguridad
 
-Al ser un script de muestra se señala donde deben ir los datos importantes, pero no estan resguardados en el caso de que se dejen ahi al guardar el archivo, es por esto que ademas de los pasos incluidos en "Configuracion" se reuga implementar alguno de lso siguientes factores:
+Al ser un script de muestra se señala donde deben ir los datos importantes, pero no estan resguardados en el caso de que se dejen ahi al guardar el archivo, es por esto que ademas de los pasos incluidos en "Configuracion" se reuga implementar alguno de los siguientes factores:
 
 - **Usar variables de entorno**: Esto garantiza que las credenciales estén fuera del código fuente y sean menos susceptibles a exponerse accidentalmente.
 - **Utiliza un archivo de configuración segura**: En lugar de variables de entorno, puedes almacenar las credenciales en un archivo de configuración que esté fuera del directorio raíz del proyecto y que no se incluya en el control de versiones. Luego, puedes leer las credenciales desde este archivo en tu script.

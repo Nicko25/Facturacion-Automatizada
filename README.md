@@ -17,4 +17,5 @@ Este proyecto consiste en un script Python que automatiza la generación y enví
 
 2. Instala las dependencias Python:
 
-   ```pip install -r requirements.txt
+   ```
+   pip install -r requirements.txt

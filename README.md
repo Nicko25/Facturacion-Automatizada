@@ -22,6 +22,9 @@ Este proyecto consiste en un script Python que automatiza la generación y enví
 
 
 ## Uso
+
+![Menu Principal](https://github.com/Nicko25/Facturacion-Automatizada/blob/master/menu.png)
+
 1. Ejecuta el script principal:
 
    ```bash

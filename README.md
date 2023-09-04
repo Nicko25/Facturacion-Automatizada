@@ -51,7 +51,7 @@ list_of_files = glob.glob(r'C:\Users\USUARIO\Downloads/*.pdf')
    
 Agregar el mail que se usara para enviar los correos de forma automatica.
 
-email_from = "emailautomatico@mail.com"
+email_from = "emailautomatico@mail .com"
 
 IMPORTANTE:
    - Se recomienda usar un nuevo email y no uno que ya se utilice de forma personal ni empresarial.
